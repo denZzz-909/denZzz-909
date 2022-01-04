@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denZzz-909
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning python
+- 👀 I’m interested in making games and web sites
+- 🌱 I’m currently learning html, css, and php (and also python)
 - 📫 How to reach me ...
 
 <!---
