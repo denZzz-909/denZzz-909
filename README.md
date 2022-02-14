@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denZzz-909
 - 👀 I’m interested in making games and web sites
 - 🌱 I’m currently learning html, css, and a little bit of c#
-- 📫 How to reach me ...
+- 📫 How to reach me: kdtwink@gmail.com
 
 <!---
 denZzz-909/denZzz-909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
