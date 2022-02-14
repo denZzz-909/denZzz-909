@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denZzz-909
+- 👋 Hi, I’m den (DeZz, denis)
 - 👀 I’m interested in making games and web sites
 - 🌱 I’m currently learning html, css, and a little bit of c#
 - 📫 How to reach me: kdtwink@gmail.com
