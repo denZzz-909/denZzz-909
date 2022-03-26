@@ -1,6 +1,7 @@
 - 👋 Hi, I’m den (DeZz, denis)
 - 👀 I’m interested in making games and web sites
 - 🌱 I’m currently learning html, css, and a little bit of c#
+- 👌  I speak russian & english languages
 - 📫 How to reach me: kdtwink@gmail.com
 
 <!---
