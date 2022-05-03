@@ -1,4 +1,4 @@
-- 👋 Hi, I’m den (DeZz, denis)
+- 👋 Hi, I’m den
 - 👀 I’m interested in making games and web sites
 - 🌱 I’m currently learning html, css, and c#
 - 👌  I speak russian, english and a little bit of ukrainian languages
