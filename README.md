@@ -1,7 +1,7 @@
 - 👋 Hi, I’m den
 - 👀 I’m interested in making games and web sites
-- 🌱 I’m currently learning html, css, and c#
-- 👌  I speak russian, english and a little bit of ukrainian languages
+- 🌱 I’m currently learning frontend and c#
+- 👌  I speak russian, english and a bit of ukrainian languages
 - 📫 How to reach me: kdtwink909@gmail.com
 
 <!---
